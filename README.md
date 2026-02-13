@@ -19,43 +19,43 @@ This project supports user authentication and role-based access.
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen](screenshots/login.PNG)
+![Login Screen](screenshots/login.png)
 
 ### SignUp Screen
-![SignUp Screen](screenshots/SignUp.PNG)
+![SignUp Screen](screenshots/SignUp.png)
 
 ### Login Teacher Screen
-![Login Teacher Screen](screenshots/LoginTeacher.PNG)
+![Login Teacher Screen](screenshots/LoginTeacher.png)
 
 ### Login Student Screen
-![Login Student Screen](screenshots/StudentLogin.PNG)
+![Login Student Screen](screenshots/StudentLogin.png)
 
 ### Profile Screen
-![Profile Screen](screenshots/Profile.PNG)
+![Profile Screen](screenshots/Profile.png)
 
 ### Weak Password Screen
 ![Weak Password Screen](screenshots/WeakPassword.png)
 
 ### Create Quiz Question Screen
-![Create Quiz Question Screen](screenshots/CreateQuizQuestion.PNG)
+![Create Quiz Question Screen](screenshots/CreateQuizQuestion.png)
 
 ### Quiz Preview Screen
-![Quiz Preview Screen](screenshots/QuizPreview.PNG)
+![Quiz Preview Screen](screenshots/QuizPreview.png)
 
 ### Edit Question Screen
-![Edit Question Screen](screenshots/EditQuestion.PNG)
+![Edit Question Screen](screenshots/EditQuestion.png)
 
 ### Attempt Quiz Screen
-![Attempt Quiz Screen](screenshots/AttemptQuiz.PNG)
+![Attempt Quiz Screen](screenshots/AttemptQuiz.png)
 
 ### AfterTimeUp Screen
-![AfterTimeUp Screen](screenshots/AfterTimeUp.PNG)
+![AfterTimeUp Screen](screenshots/AfterTimeUp.png)
 
 ### Quiz Rules Screen
-![Quiz Rules Screen](screenshots/QuizRules.PNG)
+![Quiz Rules Screen](screenshots/QuizRules.png)
 
 ### Result Screen
-![Result Screen](screenshots/Result.PNG)
+![Result Screen](screenshots/Result.png)
 
 ## How to Run
 1. Install XAMPP
